@@ -1,0 +1,14 @@
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\bin\Debug\teknokaucuk.exe.config
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\bin\Debug\teknokaucuk.exe
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\bin\Debug\teknokaucuk.pdb
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\Windows Form App.csprojAssemblyReference.cache
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.CarpımtablosuForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.DosyaokumaForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.FibonacciForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.MainForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.Properties.Resources.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.ToplacarpForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.ZigzagForm.resources
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\Windows Form App.csproj.GenerateResource.cache
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.exe
+C:\Users\MEA\Documents\visual studio 2012\Projects\Windows Form App\Windows Form App\obj\Debug\teknokaucuk.pdb
